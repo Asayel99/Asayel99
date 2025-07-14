@@ -1,6 +1,8 @@
 ### Hi there, I'm ASAYEL ALJAID👋💻
  </br>
  </br>
+## 🦋 About me:
+
 👩‍💻 Graduate of the College of Computing , Department of Information Systems Umm Al-Qura University </br>
 </br>⚡ My skills : Programmin , UI/UX design , Database Management , Web development , Mobile app development </br>
 </br>📱 My projects : Graduation Project "OP" , Cheesecake shop website , UI/UX "Intelli Diet" , Innovation Hackathon "طوق " (UI/UX) , </br> Education Hackathon "نهج " (UI/UX)
